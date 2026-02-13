@@ -1,2 +1,2 @@
 # pythonBasicoB
-hola
+sesiones de python basico
