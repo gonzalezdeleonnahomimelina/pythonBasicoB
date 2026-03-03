@@ -14,3 +14,4 @@ class Ogro(Enemigo):
         if funcion_ataque_especial:
             self.puntos_energia += 4
             print("Ogro enojado y incremento su ataque por 4!")
+
