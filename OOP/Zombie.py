@@ -17,4 +17,3 @@ class Zombie(Enemigo):
             self.puntos_energia += 2
             print("Zombie ha regenerado su energia con 2HP!")
 
-

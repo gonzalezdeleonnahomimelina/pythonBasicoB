@@ -32,3 +32,4 @@ def batalla(e1: Enemigo,e2: Enemigo):
 
 #print(f"({zombie.get_tipo_enemigo()} tiene  {zombie. puntos_energia} de energia y ataca con {zombie.ataque} )")
 #print(f"({ogro.get_tipo_enemigo()} tiene {ogro.puntos_energia} de energia y ataca con {ogro.ataque})")
+
